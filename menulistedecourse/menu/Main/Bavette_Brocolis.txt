@@ -1,0 +1,15 @@
+
+	Bavette Brocolis
+
+ingrédient:
+	- 1 bavette;
+	- 1 Brocolis;
+Recette:
+	- Faites cuire la bavette dans une poéle seule des deux coté selon la cuisson que vous souhaitez.
+	- Dans une cocotte ou une grande casserole, portez de l'eau salée à ébullition sur feu vif. 
+	- Pendant ce temps, rincez votre brocoli à l'eau puis séchez-le dans un torchon propre. 
+	- Taillez-le en petits bouquets. 
+	- Aux premiers bouillons, plongez les bouquets de brocolis dans l'eau. 
+	- Selon leur taille, comptez 7 à 10 minutes de cuisson avant de les égoutter. 
+	- Plongez-les alors dans un grand saladier d'eau glacée pour stopper leur cuisson et préserver leur couleur verte.
+

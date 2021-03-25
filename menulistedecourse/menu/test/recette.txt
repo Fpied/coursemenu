@@ -1,0 +1,9 @@
+
+ingredient: 
+Farine: 1000,
+eau: 650,
+sel: 10,
+levure: 10
+    
+recette : 
+recette: Petrir tout

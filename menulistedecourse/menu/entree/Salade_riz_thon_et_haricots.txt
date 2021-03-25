@@ -1,0 +1,12 @@
+
+	Salade de riz thon et haricots
+
+ingredient = ["Riz complet", "Légumes crus", 
+"Olives", "Maïs", "Thon", "Haricots rouge"]
+
+Recette: = "Faites cuire une bonne dose de riz et attendez que ça refroidisse. 
+	Vous pouvez le passer sous l'eau froide une fois cuit au moment de l’égoutter si vous êtes pressé(e)
+Coupez les légumes en petits morceaux Mélangez le riz avec les autres ingrédients dans un grand saladier"
+
+
+

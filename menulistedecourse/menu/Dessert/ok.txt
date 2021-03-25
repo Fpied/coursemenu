@@ -1,0 +1,8 @@
+ingredient:
+farine: 1000gr
+sel: 5gr
+levure: 5gr
+eau: 450gr
+
+Recette:
+Pétrir tout les ingrédients.

@@ -1,0 +1,15 @@
+	
+	Mayonnaise:
+
+ingrédient:
+	- 20 cl d'huile,
+	- 3 cl de vinaigre,
+	- 2 jaunes d'oeuf,
+	- 1 c. à c. de moutarde,
+	- Sel, poivre,
+
+recette:
+	Dans un bol, fouettez les jaunes d'œufs, la moutarde, le sel, le poivre blanc et le vinaigre. Fouettez jusqu'à ce que le sel soit bien dissout.
+	Versez l'huile en petit filet, sans jamais cesser de fouetter. Vous devez obtenir une émulsion. Continuez à ajouter l'huile en filet.
+
+ 

@@ -1,0 +1,12 @@
+
+	Salade de fruits
+
+ingredient = ["Pommes", "Poires", "noix", 
+"raisins secs", "citron", "autres fruits"]
+Recette: = "Lavez vos fruits 
+	Découpez-les 
+	Détailles-les 
+	Mélangez tout ça dans un saladier 
+	Rajoutez éventuellement le filet de jus de citron , 
+	et c’est bon !"
+
